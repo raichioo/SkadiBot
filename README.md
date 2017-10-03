@@ -1,0 +1,2 @@
+# SkadiBot
+personal bot
